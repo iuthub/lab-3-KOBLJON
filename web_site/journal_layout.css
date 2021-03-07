@@ -38,3 +38,14 @@
 .field_img{
 	float: right;
 }
+.friends{
+	display: table;
+	border: 5px solid #009097;
+	margin: 10px 10px 0 0;
+	background-color: #99e1e0;
+	padding: 5px;
+
+}
+.container div:hover{
+	border:2px yellow solid ;
+}
